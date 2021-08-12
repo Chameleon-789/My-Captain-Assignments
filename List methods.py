@@ -1,5 +1,6 @@
 x = ["a", "b", "c"]
 
+
 print(type(x))
 
 x.append("e")
